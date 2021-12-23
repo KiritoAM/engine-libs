@@ -14,7 +14,7 @@
 #include "gui/shared/graphics/RHI/input_layout.h"
 
 #include <atlbase.h>
-#include <gui/thirdparty/SPIRV-Cross-2020-09-17/spirv_cross/spirv_hlsl.hpp>
+#include <gui/thirdparty/spirv_cross/spirv_hlsl.hpp>
 #include <gui/thirdparty/DirectXShaderCompiler/dxcapi.h>
 #include <sstream>
 #include <string>
